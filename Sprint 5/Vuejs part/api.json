@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "id": 1,
+      "name": "Turn on AC"
+    }
+  ],
+  "rules": [
+    {
+      "conditions": [
+        {
+          "id": "1",
+          "name": "Condition 1",
+          "conditionType": "every",
+          "conditionValue": 20,
+          "conditionUnit": "celsius",
+          "originalValue": 20,
+          "value": 20
+        },
+        {
+          "id": "2",
+          "name": "Condition 2",
+          "conditionType": "every",
+          "conditionValue": 30,
+          "conditionUnit": "minutes",
+          "originalValue": 30,
+          "value": 30
+        }
+      ],
+      "action": "Turn on AC",
+      "time": "21:39",
+      "date": "2023-03-12",
+      "isActive": false,
+      "id": 1
+    },
+    {
+      "conditions": [
+        {
+          "name": "temperature",
+          "conditionType": "every",
+          "conditionValue": 1,
+          "conditionUnit": "hour(s)",
+          "value": 60,
+          "originalValue": 1
+        },
+        {
+          "name": "humidy",
+          "conditionType": "above",
+          "conditionValue": 20,
+          "conditionUnit": "minute(s)",
+          "value": 20,
+          "originalValue": 20
+        }
+      ],
+      "action": "Turn on AC",
+      "time": "17:32",
+      "date": "2023-03-06",
+      "isActive": true,
+      "id": 3
+    }
+  ]
+}
