@@ -16,12 +16,12 @@ Follow these steps to get the frontend up and running:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/danutibeabasi/IFTTTRuleHub.git
+git clone https://gitlab.emse.fr/tareq.chy/integrative-development-of-a-cps2-project.git
 ``` 
 
 2. Navigate to the project directory:
 
-```cd CPS2 IFTTT RuleHub
+```cd <project-directory-path>
 ```
 
 3. Install the dependencies:
@@ -53,7 +53,3 @@ npm install
 
 ##License
 - This project is licensed under the MIT License. See the LICENSE file for more information.
-
-## Acknowledgements
-Vue.js for the amazing frontend framework
-The IFTTT team for their inspiring work in connecting services
