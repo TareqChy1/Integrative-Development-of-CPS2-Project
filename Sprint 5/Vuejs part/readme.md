@@ -21,7 +21,8 @@ git clone https://gitlab.emse.fr/tareq.chy/integrative-development-of-a-cps2-pro
 
 2. Navigate to the project directory:
 
-```cd <project-directory-path>
+```
+cd <project-directory-path>
 ```
 
 3. Install the dependencies:
@@ -51,5 +52,5 @@ npm install
 ## Contributing
 - Feel free to fork this repository and submit pull requests for any improvements or bug fixes. Please follow the existing code style and ensure that your changes do not introduce new issues.
 
-##License
+## License
 - This project is licensed under the MIT License. See the LICENSE file for more information.
