@@ -33,9 +33,7 @@ We have some limitation with this IFTTT web application. We  will work on those 
 ## Authors and acknowledgment
 Contributed person's name is given below:
 - Tareq Md Rabiul Hossain Chy <tareq.chy@etu.emse.fr>
-- Nushrat Jahan <nushrat.jahan@etu.emse.fr>
-- Utibeabasi Aniekan DAN <utibeabasi.dan@etu.emse.fr>
-- Ninon LAHIANI 
+
 
 
 
