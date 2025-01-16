@@ -4,7 +4,6 @@
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 <p style="text-align: justify;">
 This part will allow anyone to monitor the environment in room using a microcontroller. Here we use an ESP32 board and sensors to read temperature, humidity and CO2 level. The sensor data is then displayed on an OLED display and served as a JSON object through a webserver. The device also uses BLE technology to detect presence in the room.
