@@ -25,7 +25,7 @@ IFTTT is short for "If This Then That", and rhymes with "Gift." We used to be ca
 
 ## Support
 - For reporting uses you can do it in the issues section of this repository.
-- For contacting the developer for any other reason please email me at tareq.chy@etu.emse.fr or nushrat.jahan@etu.emse.fr or utibeabasi.dan@etu.emse.fr.
+- For contacting the developer for any other reason please email me at tareq.chy@etu.emse.fr.
 
 ## Roadmap
 We have some limitation with this IFTTT web application. We  will work on those limitation in futrue. 
